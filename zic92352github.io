@@ -1,20 +1,25 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html> 
-   <head> <META http-equiv="Content-Type" content="text/html;charset=ISO- 8859-1">
-
-  <Title> Oasis </title>
+<html lang="en">
+   <Head>
+   <META http-equiv="Content-Type" content="text/html;charset=ISO8859-1">
    
-   </head>
+       <title> Teenage Fanclub  </title>
+          </head>
+		 <body> 
+		   <H1> <div style="text-align:center"> The Greatest Band that Nobody Has Heard Of </H1> 
+		     <img src="Webpage/Picture 1.jpg" alt="dkdk" height=220 width=220>
+			 <H2> <div style="font-size":12pt; font-family:Arial> Teenage Fanclub are an indie pop group out of Bellshill, Scotland. They formed in 1989 with members Norman Blake, Raymond McGinley, Gerard Love, and Brendan O'Hare.They were discovered through the C86 music scene is Glasgow, Scotland. C86 was a cassette compilation released by NME magazine to promote bands on independent music labels. </H2>
+               <H3> <div style="font-size":12pt; font-family:Arial>	The biggest influence on Teenage Fanclub is the 70's power pop group Big Star. They are often considered the reincarnation of Big Star. Other heavily influences are Californian bands such as the Beach Boys and the Byrds. Teenage Fanclub's sound early in their carrer was characterized by loud distorted guitars  
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 </body>
    
-  <body> 
-      They are the greatest band on the planet 
-   </body>
-
-
-
-
-
-
-
-
-     </html>
+   
+   
+   
