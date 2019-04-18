@@ -58,7 +58,7 @@
 		 
 		 
 		<p>
-		<A href="https://www.teenagefanclub.com/">https://www.teenagefanclub.com/</A> 
+		<A href="https://www.teenagefanclub.com/"</A>
 		</p>
 		
 		 
