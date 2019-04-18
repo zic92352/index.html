@@ -20,7 +20,7 @@
 				<li> Raymond McGinley </li>
 				<li> Norman Blake </li>
 				<li> Gerard Love </li> 
-				<l> Brendan O'Hare </li> 
+				<li> Brendan O'Hare </li> 
 				
 				  
 				
